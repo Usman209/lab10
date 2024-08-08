@@ -1,0 +1,1 @@
+import{u as t}from"./index-DQ7iaOIo.js";var l=()=>{const{t:e}=t();return[{label:e("fields.createdAt"),key:"created_at",type:"date"},{label:e("fields.updatedAt"),key:"updated_at",type:"date"}]};export{l as u};

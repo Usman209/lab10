@@ -1,0 +1,1 @@
+import{g as n}from"./chunk-VZRDVNEY-twUt44Gw.js";import{u,r as a}from"./index-DQ7iaOIo.js";var c=({currencies:r=[],regions:t=[],pricePreferences:s=[]})=>{const{t:e}=u();return a.useMemo(()=>n({currencies:r,regions:t,pricePreferences:s,getFieldName:(o,i)=>o.column.id.startsWith("currency_prices")?`currency_prices.${i}`:`region_prices.${i}`,t:e}),[e,r,t,s])};export{c as u};
